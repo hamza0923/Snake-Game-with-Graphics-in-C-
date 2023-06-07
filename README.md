@@ -1,1 +1,1 @@
-# Snake-Game-with-Graphics-in-C-
+# Snake-Game-with-Graphics-in-C++
